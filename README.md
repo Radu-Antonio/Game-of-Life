@@ -1,5 +1,5 @@
 # Game of Life
-I did an implementation of Conway's Game of Life using python
+I did an implementation of Conway's Game of Life using python\
 You can learn more about it here: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 # How to run it:
