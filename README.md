@@ -3,7 +3,7 @@ I did an implementation of Conway's Game of Life using python\
 You can learn more about it here: [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 # How to run it:
-- you need to have pygame, if you dont have it type pip install pygame
+- you need to have pygame, if you don't have it type pip install pygame
 - type python GOL.py and play with it
 
 # How to use it:
